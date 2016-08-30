@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+branches:
+  ignore: ['2.x', '2.next']
+=======
+linters:
+  phpcs:
+    standard: CakePHP
+    extensions: '.php,.ctp'
+branches:
+    ignore: ['2.x', '2.next']
+>>>>>>> 8314c2ff833280bbc7102cb6d4fcf62240cd3ac4
